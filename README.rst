@@ -4,8 +4,8 @@ tls
 .. image:: https://travis-ci.org/python-tls/tls.svg?branch=master
     :target: https://travis-ci.org/python-tls/tls
 
-.. image:: https://coveralls.io/repos/python-tls/tls/badge.svg?branch=master
-    :target: https://coveralls.io/r/python-tls/tls?branch=master
+.. image:: https://coveralls.io/repos/pyca/tls/badge.svg?branch=master
+    :target: https://coveralls.io/r/pyca/tls?branch=master
 
 
 Introduction
